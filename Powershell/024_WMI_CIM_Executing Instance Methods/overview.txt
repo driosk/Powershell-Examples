@@ -1,0 +1,5 @@
+Finding methods and documentation
+executing methods via wmi
+executing methods via cim
+Enumerating to execute methodstricks with method arguments. 
+Tricks with method arguments

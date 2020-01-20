@@ -1,0 +1,9 @@
+Debugging is cool. Puzzle for christmas. Put the pieces together.
+In debugging. Mostly taking it apart. 
+
+The purpose of debugging 
+
+Techniques for debugging: 
+...writing debug info
+...ISE BreakPoints
+...ConsoleBreakPoints

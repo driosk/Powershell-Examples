@@ -1,0 +1,5 @@
+Making module functions "private"
+Creating private and public module variables 
+
+"preference variables"
+

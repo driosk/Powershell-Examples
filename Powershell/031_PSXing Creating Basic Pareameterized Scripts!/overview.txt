@@ -1,0 +1,5 @@
+Testing a command
+Adding the command to a script
+Identifying changeable information
+Parameterizing the changeable bits
+Testing the parameterized script

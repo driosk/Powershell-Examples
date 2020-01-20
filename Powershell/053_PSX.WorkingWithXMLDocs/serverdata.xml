@@ -1,0 +1,20 @@
+<computers>
+
+    <computer name="ILCSDC0.critsol.net" >
+        <osversion /> <!--Contents-->
+        <biosserial /> <!--Attributes-->
+    </computer>
+
+    <computer name="ILCSDC1.critsol.net" >
+        <osversion /> <!--Contents-->
+        <biosserial /> <!--Attributes-->
+    </computer>
+
+</computers>
+
+
+<!--Only one top level element
+xml is good at storing heirarchical information.
+All windows computers understand xml out of box. 
+
+--> 

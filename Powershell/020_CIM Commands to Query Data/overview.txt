@@ -1,0 +1,7 @@
+Finalized protocols and open industry standard procedure. 
+
+Getting classes
+Getting instances
+Working with command options
+working with output
+Remember it's all Remoting (Under the hood(WSMan))

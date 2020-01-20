@@ -1,0 +1,4 @@
+The Repository (wmi but stop using that name)
+Exploring the Repository
+Finding Documentation <-no powershell help
+WMI vs. CIM: Fight!

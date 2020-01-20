@@ -1,0 +1,27 @@
+What we can tell from looking and running the script. We know:
+
+debugging copy.ps1
+$computername @(localhost,ILCSDC0)
+
+first time through foreach: 
+$computer = localhost
+
+$disk contains a disk object for a hard disk. 
+
+if $disk less than 20%
+
+$disk has a freespace and space property
+
+if machine isn't 20 or less it won't run. Changed to diskpace less than 100% so you can get output. 
+
+
+PS C:\> Get-WmiObject -Class Win32_LogicalDisk -Filter "drivetype='fixed'"                                                                   Get-WmiObject : Invalid query "select * from Win32_LogicalDisk where drivetype='fixed'"
+At line:1 char:1
++ Get-WmiObject -Class Win32_LogicalDisk -Filter "drivetype='fixed'"
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Get-WmiObject], ManagementException
+    + FullyQualifiedErrorId : GetWMIManagementException,Microsoft.PowerShell.Commands.GetWmiObjectCommand
+
+drivetype is a number not a string. 
+
+Get-WmiObject -Class Win32_LogicalDisk | fl *

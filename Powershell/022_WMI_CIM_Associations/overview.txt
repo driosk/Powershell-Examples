@@ -1,0 +1,10 @@
+Associations are ways for two classes or more to relate to each other.
+
+A single network adapter can have multiple configs. 
+two classes, the one that represents the adapter and the one that represents the configuration
+need to talk to each other. 
+
+What are Associations?
+
+Querying them with WMI
+Querying them with CIM (Easier)

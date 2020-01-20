@@ -1,0 +1,26 @@
+
+
+Native HTML output
+Where people get it wrong
+Creating enhanced HTML fragments
+Combining fragments into a report
+Applying Styling
+Adding Dynamic elements
+Making a controller script to automate it all. 
+
+
+Get-SystemDetails -ComputerName ILCSDC0 | ConvertTo-Html | Out-File .\HTML\firstreport.html 
+
+To fix -fragment parameter. 
+
+Get-SystemDetails -ComputerName ILCSDC0 |
+ConvertTo-Html -PreContent '<h1>System</h1>' -Fragment |
+Out-File .\HTML\firstreportFragment.html
+
+
+
+Enhanced HTML tool. 
+
+Create Advanced HTML Fragments and add dynamic elements. 
+
+Run to generate multi section server configuration reports. 

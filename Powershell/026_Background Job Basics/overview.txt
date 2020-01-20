@@ -1,0 +1,7 @@
+local jobs
+remotiong jobs
+wmi jobs
+job management and basics
+
+Only 3 types of jobs that come with powershell
+Modules or extentions may add functionality to jobs.

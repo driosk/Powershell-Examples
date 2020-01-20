@@ -1,0 +1,17 @@
+More like best visual practices. 
+
+Make.
+It.
+Pretty.
+
+#Source control later.
+
+SharePoint
+SVN (Subversion)
+Git
+Team Foundation Server (TFS)
+SAPIEN ChangeVue
+
+Splatting 
+line breaks
+indent

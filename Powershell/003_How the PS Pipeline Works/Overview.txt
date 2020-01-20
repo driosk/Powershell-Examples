@@ -1,0 +1,19 @@
+Passing data from on ecommand to the next
+Plan A: ByValue
+Plan B: ByPropertyName
+Renaming properties in the pipeline
+Using parentheticals
+Expanding property values
+
+cmd: 
+
+IN  | 
+OUT | IN
+ERR |
+
+Not powershell
+
+Powershell command can only accept input on one of its parameters. 
+
+cmd | another   Looks at which parameter will recieve the information.
+

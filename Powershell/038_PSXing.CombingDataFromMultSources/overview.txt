@@ -1,0 +1,6 @@
+One script... one pipeline.
+Making custom output objects
+
+(v3) Preserving property order
+
+Works in version 2

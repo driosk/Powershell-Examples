@@ -1,0 +1,15 @@
+<computers>
+  <computer name="ILCSWS008.critsol.net">
+    <osversion />
+    <!--Contents-->
+    <biosserial>
+    </biosserial>
+    <!--Attributes-->
+  </computer>
+  <computer name="ILCSWS007.critsol.net">
+    <osversion />
+    <!--Contents-->
+    <biosserial>6603-6794-8308-4334-1109-7146-08</biosserial>
+    <!--Attributes-->
+  </computer>
+</computers>

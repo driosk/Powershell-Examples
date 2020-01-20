@@ -1,0 +1,7 @@
+OUtput looks bllleeeeeck.
+
+How Formatting works
+Adding a custom type name
+Creating custom views
+Loading views manually
+Loading views in a module manifest.

@@ -1,0 +1,12 @@
+Writing to the screen is not "output"
+
+Creating a file on disk (etc) is not "output"
+
+WRITE...
+HOST
+output
+Verbose
+etc. (streams)
+
+Read...
+HOST

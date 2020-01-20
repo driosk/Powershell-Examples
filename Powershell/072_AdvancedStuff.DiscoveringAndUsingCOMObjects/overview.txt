@@ -1,0 +1,5 @@
+Component Object Model
+Older Technology.
+
+Instantiating a COM Object
+Using the COM Object

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Configuration>
+    <ViewDefinitions>
+    <View>
+            <Name>GetSystemInfoObject</Name>
+            <ViewSelectedBy>
+                <TypeName>My.Awesome.System.Info</TypeName>
+            </ViewSelectedBy>
+            <TableControl>
+
+                <TableHeaders>
+                    <TableColumnHeader>
+                        <Label>Handles</Label>
+                        <Width>7</Width>
+                        <Alignment>right</Alignment>
+                    </TableColumnHeader>
+                </TableHeaders>
+
+                <TableRowEntries>
+                    <TableRowEntry>
+                        <TableColumnItems>
+                            <TableColumnItem>
+                                <PropertyName>HandleCount</PropertyName>
+                            </TableColumnItem>
+                        </TableColumnItems>
+                    </TableRowEntry>
+                </TableRowEntries>
+
+            </TableControl>
+        </View>
+    </ViewDefinitions>
+</Configuration>

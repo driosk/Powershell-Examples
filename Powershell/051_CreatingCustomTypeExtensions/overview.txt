@@ -1,0 +1,8 @@
+The Extensible Type System 
+How ETS Works
+Extending Types on your own. 
+
+
+You want types when you can't modify the object. 
+
+Only do types and format data in modules. 

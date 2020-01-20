@@ -1,0 +1,3 @@
+tweaking the tool
+getting the sql reporting module
+putting the tool output into sql server. 

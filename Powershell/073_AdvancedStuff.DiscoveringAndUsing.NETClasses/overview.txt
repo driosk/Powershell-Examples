@@ -1,0 +1,12 @@
+The deeper you get into the framework, the more towards C++ you're getting to.
+
+
+Discovering .Net Classes and Docs
+
+Static members (Methods and Properties)
+
+Instance Members (Methods and Properties) Spin up copy of code in memory to access them. 
+
+How to differentiate. 
+
+Where to find what is in .net.

@@ -1,0 +1,14 @@
+Write a command...
+...make a parameterized script...
+...enclose it in a function...
+...package it as a module...
+
+You're a ToolMaker!
+
+DevOps
+
+MyDocuments>
+    WindowsPowerShell>
+        Modules>
+            FolderNamedAsModuleFile>
+                FolderNamedAsModuleFile.psm1

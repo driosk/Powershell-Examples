@@ -1,0 +1,17 @@
+Instaall SQL Server Express
+Setting up a database
+
+Saving info to the DB 
+
+Reading info from the DB
+
+
+"TLS_PSK_WITH_AES_256_GCM_SHA384","TLS_PSK_WITH_AES_128_GCM_SHA256","TLS_PSK_WITH_AES_256_CBC_SHA384","TLS_PSK_WITH_AES_128_CBC_SHA256","TLS_PSK_WITH_NULL_SHA384","TLS_PSK_WITH_NULL_SHA256"
+
+
+Enable-TlsCipherSuite -Name "TLS_PSK_WITH_AES_256_GCM_SHA384"
+Enable-TlsCipherSuite -Name "TLS_PSK_WITH_AES_128_GCM_SHA256"
+Enable-TlsCipherSuite -Name "TLS_PSK_WITH_AES_256_CBC_SHA384"
+Enable-TlsCipherSuite -Name "TLS_PSK_WITH_AES_128_CBC_SHA256"
+Enable-TlsCipherSuite -Name "TLS_PSK_WITH_NULL_SHA384"
+Enable-TlsCipherSuite -Name "TLS_PSK_WITH_NULL_SHA256"

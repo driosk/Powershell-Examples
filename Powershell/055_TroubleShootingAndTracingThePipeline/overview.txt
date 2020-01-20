@@ -1,0 +1,5 @@
+Pipeline parameter binding: recap
+
+Tracing the Pipeline
+
+Manipulating parameter binding

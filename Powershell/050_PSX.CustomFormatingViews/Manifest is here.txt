@@ -1,0 +1,2 @@
+New-ModuleManifest -Path OSTools.psd1 -RootModule .\OStools.psm1 -FormatsToProcess .\ostools.format.psm1xml
+# You can add custom view for all your modules in the same xml. 

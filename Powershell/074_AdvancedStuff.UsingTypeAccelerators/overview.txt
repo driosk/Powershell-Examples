@@ -1,0 +1,7 @@
+Most of this can be done with methods
+
+[string] [int] [bool]
+[xml]
+[adsi] Active directory service interface.
+[void]
+[wmi]

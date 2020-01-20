@@ -1,0 +1,13 @@
+Job to run even if powershell isn't running. 
+
+Overview: Scheduled Jobs vs Scheduled Tasks
+(and version info)
+
+3 Main objects that we'll work with.
+Triggers
+Options
+Jobs
+
+Working with jobs that have run
+
+Powershell v3 specific.

@@ -1,0 +1,9 @@
+TrustedHost Technique (Easy but insecure)
+
+SSL Technique
+cert request
+cert installation
+trust installation
+HTTPS listener (winrm)
+
+

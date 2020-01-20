@@ -1,0 +1,18 @@
+Basic Comparison Operators
+Wildcard string Comparisons
+Basic Boolean Operators
+Filtering items out of the pipeline
+
+
+Advanced Operators:
+IS and AS
+Contains and in
+Replace, Split, and Join
+Math + Assignment
+Bitwise
+Boolean
+Redirection
+Dot Sourcing
+Range
+Formatting
+Arrays

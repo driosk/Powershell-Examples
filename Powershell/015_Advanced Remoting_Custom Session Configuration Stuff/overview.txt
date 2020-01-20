@@ -1,0 +1,9 @@
+Create an endpoint to allow helpdesk to disable and enable AD accounts. 
+Don't want to give them persmission, only let them do it through this channel. 
+
+"Delegated Administration"
+
+setting up the group and a user.
+Defining the session configuration
+registering the configuration on the server
+testing the configuration with the user

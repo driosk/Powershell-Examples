@@ -1,0 +1,9 @@
+How workflow works
+Example workflow walkthrough
+key workflow features
+
+2 executables
+powershell itself 
+or windows workflow foundation which runs it.
+
+xaml to wwf

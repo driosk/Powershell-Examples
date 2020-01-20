@@ -1,0 +1,9 @@
+How error work in PowerShell
+Basic Error Handling
+
+
+ErrorActionPreference inquire,silentlycontinue.
+
+When a terminating exeption occurs in a try block, powershell will immediately
+execute the catch block. then the finally. Also finally will be run if there is no error. 
+

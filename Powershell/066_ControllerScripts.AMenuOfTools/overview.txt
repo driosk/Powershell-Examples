@@ -1,0 +1,3 @@
+Create a text menu. 
+
+Get-DiskDetails, Get-SystemDetails,Set-ComputerState

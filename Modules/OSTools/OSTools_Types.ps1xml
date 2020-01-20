@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Types>
+ <Type>
+    <Name>CriticalSolutions.OSTools.SystemDetails</Name>
+    <Members>
+   
+      <AliasProperty>
+        <Name>Host</Name>
+        <ReferencedMemberName>ComputerName</ReferencedMemberName>
+      </AliasProperty>
+
+      <ScriptProperty>
+        <Name>NormalizedBIOSSerial</Name>
+        <GetScriptBlock>$this.BIOSSerial -replace "-",""</GetScriptBlock>
+      </ScriptProperty>
+
+    </Members>
+  </Type>
+</Types>

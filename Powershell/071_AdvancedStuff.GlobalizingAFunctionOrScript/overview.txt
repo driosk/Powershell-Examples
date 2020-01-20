@@ -1,0 +1,7 @@
+Globalizing: Writing code that is adaptable to different languages.
+
+...and Localizing : Taking Globalized code and translating it. 
+
+DATA section : Using Data Sections
+PSD1 data files : Supporting them with tranlations.
+

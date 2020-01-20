@@ -1,0 +1,4 @@
+Start a session
+...ask it to load a module into memory
+and then create shortcuts to that module's
+commands on YOUR computer!

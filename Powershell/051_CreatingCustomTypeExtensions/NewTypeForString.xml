@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Types>
+ <Type>
+    <Name>System.String</Name>
+    <Members>
+
+       <ScriptProperty>
+        <Name>IsUNC</Name>
+        <GetScriptBlock>$this -match "^\\\\\w+"</GetScriptBlock>
+      </ScriptProperty>
+
+      <ScriptMethod>
+        <Name>IsAvailable</Name>
+        <Script>
+          Test-Connection $this -quiet
+        </Script>
+      </ScriptMethod>
+
+    </Members>
+  </Type>
+</Types>

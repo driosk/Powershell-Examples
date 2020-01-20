@@ -1,0 +1,2 @@
+finding the native resources
+Writing a custom resource. 

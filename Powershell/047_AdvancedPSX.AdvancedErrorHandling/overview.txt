@@ -1,0 +1,18 @@
+Quick Review of the Basics
+ErrorActions
+ErrorVariables
+$_
+$ErrorActions
+And how they're all (not) the same.
+
+
+Powershell built on top of .Net. They all know how to throw exeptions. 
+
+Base is System.Exeption
+
+Contextual info associated with exception.
+
+Error Record holds this info for .net error and POwershell specific contextual.
+
+
+get-content doesnotexist.txt

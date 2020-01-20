@@ -1,0 +1,12 @@
+Replace and/or extend powershell function. 
+
+
+What are proxy functions? 
+
+Creating the base function
+
+Modifying the function
+
+using the function
+
+accessing the underlying function

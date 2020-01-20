@@ -1,0 +1,4 @@
+Working with output
+(remote all of your processing)
+
+Passing input arguments from local variables 

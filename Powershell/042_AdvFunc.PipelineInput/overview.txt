@@ -1,0 +1,11 @@
+By Value
+By Property Name
+
+Coding it up
+Working with both models
+
+Only one parameter rigged with valuefrompipeline per data type.
+Propertyname doesn't follow this rule. 
+If it's a value then it will default to andding it to computername.
+@{n='';e={}}
+import-csv .\comps.csv | select @{n='ComputerName';e={$_.Name}},@{n='DriveType';e={$_.Type}}

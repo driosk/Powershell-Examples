@@ -1,0 +1,15 @@
+Decaratives. 
+
+Mandatory
+Help Messages
+Positional
+Validation
+Aliases
+help about_functions_Advanced_Parameters
+
+validate count
+validate lenghth 
+validate pattern
+validate set
+Validation script
+Validate count

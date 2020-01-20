@@ -1,0 +1,3 @@
+#TYPE Selected.System.Management.ManagementObject
+"Computername","Drive","Freespace(GB)","Size(GB)"
+"ILCSDC0","C:","23","39"

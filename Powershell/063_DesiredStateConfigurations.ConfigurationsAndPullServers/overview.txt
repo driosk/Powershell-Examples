@@ -1,0 +1,25 @@
+Writing a configuration
+Pushing the configuration
+
+Setting up a pull server
+
+Creating a config on the pull server. 
+
+Setting a machine to use pull mode. 
+
+Describe what one or more computers look like. 
+Resources: 
+
+Archive
+Environment
+File
+Group Local Users
+Log
+Package
+Process
+Registry
+Role 
+Script
+
+
+

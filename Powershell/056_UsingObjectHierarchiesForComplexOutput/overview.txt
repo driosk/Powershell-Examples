@@ -1,0 +1,18 @@
+Working with hierarchies
+...Selecting and Expanding
+...Formating custom
+...Exporting gotchas
+
+Creating hierarchical object output. 
+
+Computer
+        >As many Disks as it has. 
+
+Computer>OSVersion
+        >BIOSSerial
+        >Disks - Multiple disk objects. 
+            >size freesapce
+        >Disk2 
+            >size freesapce
+
+When you add an item to an array it gets the original array, adds the new item them deletes the old array. 

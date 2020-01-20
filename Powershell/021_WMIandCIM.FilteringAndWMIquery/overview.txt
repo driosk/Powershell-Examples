@@ -1,0 +1,4 @@
+Old WMI command and CIM command at once. 
+
+Specifying filter criteria for CIM and WMI
+Using WQL queries

@@ -1,0 +1,7 @@
+Persistent connection to a remote computer for teh purposes for querying and manipulating the repository. 
+
+CIM can use two protocols (including DCOM which doesn't need powershell)
+
+Managing CIM Sessions
+
+WSMAN and DCOM Sessionsusing session types in combination.

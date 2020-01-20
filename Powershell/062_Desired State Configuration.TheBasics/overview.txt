@@ -1,0 +1,41 @@
+Powershell v5 and later. 
+
+
+DSC Architecture
+DSC overview
+
+
+Describing final configuration should look like. 
+
+Will produce a mof. 
+
+Push or pull to get it there. 
+
+Limitation with GPO is registry. 
+
+Client side extentions expand functionality of GPO. 
+
+Only Windows can be managed by Group Policy. 
+
+Not windows server outside Domain. 
+
+DSC can do for you:
+- No need for Domain
+- Based on industry standards. Mof (DMTF distributed management task force)
+- Communications protocols - HTTP/s & WSMAN (WinRm)
+- Enabledment for cross platforms. 
+- More easily extensible. 
+- Can Configure registry
+- Server Roles
+- File System
+- Written as PSX.
+
+
+Picard                              Riker
+What it looks like                  Make it happen
+Declarative side                    Imperative Side
+
+DC                                  DSC Resource
+IIS                                 ServerRoles
+RegKeys                             Registry
+Software

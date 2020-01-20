@@ -1,0 +1,11 @@
+TWO PHASES 
+
+Declaring support for ShouldProcess
+
+Implementing Support for ShouldProcess
+
+Understanding COnfirmImpact
+
+Win32_OperatingSystem class WMI doesn't have -whatif or -confirm.
+
+COnfirmImpact is equal to or higher than confirm preference, it will automatically ask to confirm. 

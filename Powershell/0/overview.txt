@@ -1,0 +1,3 @@
+Installation and setup <--member computer
+Using PWA
+Solving the authentication issue

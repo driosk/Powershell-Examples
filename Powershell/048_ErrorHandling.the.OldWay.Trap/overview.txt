@@ -1,0 +1,8 @@
+Old school "Trap" Construct = a bit outdated.
+
+Execution Flow
+
+Trap vs. Try/Catch
+
+
+Try/Catch is a lot more flexible. 
