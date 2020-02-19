@@ -67,3 +67,4 @@ WindowsTerminal         =>
 Compare-Object -ReferenceObject (Import-Clixml .\procs.xml) -DifferenceObject (Get-Process) -Property name | ConvertTo-Html | Out-File differences.ConvertTo-Html
 
 Get-EventLog -LogName Security -Newest 10 | Export-Csv C:\recentlogs.csv | Out-File C:\something.csv
+change
