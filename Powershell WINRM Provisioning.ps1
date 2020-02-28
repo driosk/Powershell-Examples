@@ -15,4 +15,7 @@ net stop winrm
 sc.exe config winrm start=auto
 net start winrm
 </powershell>
-EOF
+EOF\
+
+
+

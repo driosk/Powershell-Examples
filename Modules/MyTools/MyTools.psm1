@@ -1,4 +1,4 @@
-﻿function Get-LatestSecurityLog{
+﻿function Get-LatestSecurityLog {
     param (
         [string]$ComputerName
     )
@@ -15,18 +15,18 @@ function Get-SysInfo {
         [string[]]$ComputerName
     )
     foreach ($comp in $ComputerName) {
-        $os =   Get-WmiObject -Class Win32_OperatingSystem -ComputerName $Comp
-        $cs =   Get-WmiObject -Class Win32_ComputerSystem -ComputerName $Comp
+        $os = Get-WmiObject -Class Win32_OperatingSystem -ComputerName $Comp
+        $cs = Get-WmiObject -Class Win32_ComputerSystem -ComputerName $Comp
         $bios = Get-WmiObject -Class Win32_BIOS -ComputerName $Comp
 
         $props = [ordered]@{
-                    'ComputerName'= $Comp;
-                    'OSVersion'   = $os.version;
-                    'SPVersion'   = $os.servicepackmajorversion;
-                    'Mfgr'        = $cs.manufacturer;
-                    'Model'       = $cs.model;
-                    'RAM'         = $cs.TotalPhysicalMemory;
-                    'BIOSSerial'  = $bios.serialnumber  
+            'ComputerName' = $Comp;
+            'OSVersion'    = $os.version;
+            'SPVersion'    = $os.servicepackmajorversion;
+            'Mfgr'         = $cs.manufacturer;
+            'Model'        = $cs.model;
+            'RAM'          = $cs.TotalPhysicalMemory;
+            'BIOSSerial'   = $bios.serialnumber  
         }
         # Write-Output $props
 
